@@ -88,8 +88,17 @@ You could use it in your view controller's as below :-
         NSLog(@"Menu not present");    //render your code
 }
 
+Coming Feature
+==============
+
+  -> When a view controller is present then SWIPE(left/right) to move to next view controller without pinch in to return back to menu screen.
+  
+  -> Making menu screen dynamic for minimum FOUR item to maximum SIX items
+
 Note
 ====
+Right now, menu item need's to be six else layout won't be good in look 'n' feel.
+
 Currently supports iOS 7 and 8.
 
 For iOS devices, only iPhone 5/5s/6/6 plus
