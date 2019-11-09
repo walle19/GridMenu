@@ -109,4 +109,4 @@ For iOS devices, only iPhone 5/5s/6/6 plus
 
 ### License
 
-Copyright © 2017, [Nikhil Wali](https://github.com/walle19).
+Copyright © 2012, [Nikhil Wali](https://github.com/walle19).
