@@ -105,7 +105,7 @@ For iOS devices, only iPhone 5/5s/6/6 plus
 
 ### Author
 
-**Nikhil Wali** github/walle19](https://github.com/walle19)
+**Nikhil Wali** [github/walle19](https://github.com/walle19)
 
 ### License
 
