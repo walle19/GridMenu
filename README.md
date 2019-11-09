@@ -102,3 +102,13 @@ Right now, menu item need's to be six else layout won't be good in look 'n' feel
 Currently supports iOS 7 and 8.
 
 For iOS devices, only iPhone 5/5s/6/6 plus
+
+### Author
+
+**Nikhil Wali**
+
+* [github/walle19](https://github.com/walle19)
+
+### License
+
+Copyright © 2017, [Nikhil Wali](https://github.com/walle19).
